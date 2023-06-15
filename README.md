@@ -1,8 +1,5 @@
 ![banner (11)](https://github.com/hmzq-404/hmzq-404/assets/66130102/4d0c192f-1108-405f-a8a4-edb33b016938)
 
-
-
-
 ## I am Hamza:
 - 📖 Passionate learner
 - 💻 Computer enthusiast
@@ -18,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Productivity Tools:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
