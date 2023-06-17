@@ -2,7 +2,7 @@
 
 ## I am Hamza:
 - 📖 Passionate learner
-- 💻 Computer enthusiast
+- 💻 Interested in computers
 - ⌨️ Writing code
 - 👾 Living in the terminal
 <br>
