@@ -1,8 +1,5 @@
-![banner (11)](https://github.com/hmzq-404/hmzq-404/assets/66130102/4d0c192f-1108-405f-a8a4-edb33b016938)
-
-## I am Hamza:
+## Hi! I am Hamza:
 - 📖 Passionate learner
-- 💻 Interested in computers
 - ⌨️ Writing code
 - 👾 Living in the terminal
 <br>
