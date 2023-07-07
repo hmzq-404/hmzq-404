@@ -1,7 +1,5 @@
 ## Hi! I am Hamza:
 - 📖 Passionate learner
-- ⌨️ Writing code
-- 👾 Living in the terminal
 <br>
 
 ## Tech I Use:
