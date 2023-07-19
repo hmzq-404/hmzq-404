@@ -1,7 +1,7 @@
 ## Hi! I am Hamza:
-- 📖 High School Student
-- 💻 CS Major
-- ⌨️ Passionate Programmer
+- 📖 High school student
+- 💻 CS major
+- ⌨️ Passionate programmer
 <br>
 
 ## Tech I have experience with:
