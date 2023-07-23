@@ -1,7 +1,7 @@
 ## Hi! I am Hamza:
 - 📖 High school student
-- 💻 CS major
-- ⌨️ Passionate programmer
+- 💻 Passionate programmer
+- ✍️ Working on (The Odin Project)[https://www.theodinproject.com/]
 <br>
 
 ## Tech I have experience with:
