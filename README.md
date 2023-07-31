@@ -1,7 +1,7 @@
 ## Hi! I am Hamza:
 - 📖 High school student
 - 💻 Passionate programmer
-- ✍️ Working on [The Odin Project](https://www.theodinproject.com/)
+- ✍️ Currently learning from the [The Odin Project](https://www.theodinproject.com/)
 <br>
 
 ## Tech I have experience with:
@@ -18,3 +18,7 @@
 
 #### And Obviously:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+<hr>
+
+### View my Best Projects and Timeline Below 👇
