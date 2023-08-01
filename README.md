@@ -2,7 +2,6 @@
 - 📖 High school student
 - 💻 Passionate programmer
 - ✍️ Currently learning from the [The Odin Project](https://www.theodinproject.com/)
-<br>
 
 ## Tech I have experience with:
 #### Languages:
